@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base app theme -->
+    <style name="Base.Theme.LevelUpLife" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- ✅ Correct: platform attrs with android: -->
+        <item name="android:statusBarColor">@color/status_bar_dark</item>
+        <item name="android:windowLightStatusBar">false</item>  <!-- icons WHITE -->
+        <!-- (Optional) -->
+        <!-- <item name="android:navigationBarColor">@android:color/black</item> -->
+    </style>
+
+    <!-- App theme -->
+    <style name="Theme.LevelUpLife" parent="Base.Theme.LevelUpLife" />
+</resources>

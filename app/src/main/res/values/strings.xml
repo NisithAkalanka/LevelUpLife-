@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">LevelUpLife</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- strings.xml -->
+    <string name="card_quests_sub">Track &amp; complete your goals</string>
+    <string name="card_settings_sub">Reminders, intervals &amp; more</string>
+    <style name="Widget.MaterialComponents.Chip.Assist"
+        parent="Widget.MaterialComponents.Chip.Action" />
+    <!-- res/values/strings.xml -->
+    <string name="lvl_format">LVL %1$d</string>
+    <string name="xp_format">%1$d / %2$d XP</string>
+    <string name="mood_title">Mood Journal</string>
+    <string name="how_are_you_feeling">How are you feeling today, Adventurer?</string>
+    <string name="recent_moods">Recent Moods</string>
+    <string name="share">Share</string>
+    <string name="mood_happy">Happy</string>
+    <string name="mood_neutral">Neutral</string>
+    <string name="mood_sad">Sad</string>
+    <!-- res/values/strings.xml -->
+    <string name="hint_add_note">Add a note (optional)</string>
+    <string name="btn_log_mood">Log mood</string>
+    <string name="btn_clear">Clear</string>
+    <string name="tag_work">Work</string>
+    <string name="tag_study">Study</string>
+    <string name="tag_health">Health</string>
+    <string name="tag_family">Family</string>
+    <string name="empty_moods">No moods yet. Log your first mood!</string>
+
+
+        <string name="delete">Delete</string>
+        <string name="delete_quest">delete quest</string>
+        <string name="tap_to_mark_complete">Tap to mark complete</string>
+        <string name="completed">Completed</string>
+        <string name="search_quests">Search quests</string>
+    <string name="hydration_title">Time to hydrate</string>
+    <string name="hydration_body">Have a glass of water 💧</string>
+
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+
+
+    <string name="today">Today</string>
+    <string name="completed_count">Completed: %1$d</string>
+    <string name="active_count">Active: %1$d</string>
+    <string name="focus_count">Focus: %1$d</string>
+
+
+
+
+</resources>

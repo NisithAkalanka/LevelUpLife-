@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- primary -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- secondary -->
+    <color name="dashboard_bg">#1A8C90A8</color>    <!-- soft gel -->
+    <color name="status_bar_dark">#2B2D42</color> <!-- match gradient start -->
+    <color name="xp_progress">#FFD166</color>
+    <color name="xp_track">#33FFFFFF</color>
+    <color name="purple_200">#333F3492</color>
+    <color name="Blue">#2196F3</color>
+    <!-- accent -->
+    <color name="progress_hub_title">#FFE082</color> <!-- example -->
+    <color name="quick_action_tint">#6D6AE8</color>     <!-- soft indigo -->
+    <color name="quick_action_ripple">#226D6AE8</color> <!-- 13% alpha -->
+
+</resources>

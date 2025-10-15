@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="12dp"
+    android:paddingBottom="12dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:background="@drawable/gradient_toolbar_bg">
+
+    <TextView
+        android:id="@+id/tv_user_level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LVL 1"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:textColor="@android:color/white"/>
+
+    <ProgressBar
+        android:id="@+id/xp_progress_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="8dp"
+        android:layout_marginTop="8dp"
+        android:progressTint="@color/xp_progress"
+        android:progressBackgroundTint="@color/xp_track"/>
+
+    <TextView
+        android:id="@+id/tv_xp_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="0 / 100 XP"
+        android:textSize="13sp"
+        android:textColor="@android:color/white"/>
+</LinearLayout>
